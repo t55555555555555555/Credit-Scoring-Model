@@ -1,0 +1,3 @@
+Use This code to run this project.
+
+python credit_scoring_model.py
